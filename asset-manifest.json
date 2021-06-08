@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-fiber-demo/static/css/main.40c27f79.chunk.css",
+    "main.js": "/react-fiber-demo/static/js/main.49cfa71e.chunk.js",
+    "main.js.map": "/react-fiber-demo/static/js/main.49cfa71e.chunk.js.map",
+    "runtime-main.js": "/react-fiber-demo/static/js/runtime-main.ebac6a5f.js",
+    "runtime-main.js.map": "/react-fiber-demo/static/js/runtime-main.ebac6a5f.js.map",
+    "static/js/2.4a9c812d.chunk.js": "/react-fiber-demo/static/js/2.4a9c812d.chunk.js",
+    "static/js/2.4a9c812d.chunk.js.map": "/react-fiber-demo/static/js/2.4a9c812d.chunk.js.map",
+    "static/js/3.efaa52f0.chunk.js": "/react-fiber-demo/static/js/3.efaa52f0.chunk.js",
+    "static/js/3.efaa52f0.chunk.js.map": "/react-fiber-demo/static/js/3.efaa52f0.chunk.js.map",
+    "index.html": "/react-fiber-demo/index.html",
+    "static/css/main.40c27f79.chunk.css.map": "/react-fiber-demo/static/css/main.40c27f79.chunk.css.map",
+    "static/js/2.4a9c812d.chunk.js.LICENSE.txt": "/react-fiber-demo/static/js/2.4a9c812d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebac6a5f.js",
+    "static/js/2.4a9c812d.chunk.js",
+    "static/css/main.40c27f79.chunk.css",
+    "static/js/main.49cfa71e.chunk.js"
+  ]
+}
